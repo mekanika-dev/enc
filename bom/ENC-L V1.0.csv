@@ -1,0 +1,71 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M00135,ENC-L [M0 Use],1.00,,,True
+1,M00126,ENC - Mechanical Components Box,1.00,M00135,ENC-L [M0 Use],True
+2,M00127,ENC - Miscellaneous Components Bag,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00064,Angle Bracket Simple 20x20 M5,10.00,M00127,ENC - Miscellaneous Components Bag,False
+3,M00066,Angle Connection Plate 20x60x3mm,14.00,M00127,ENC - Miscellaneous Components Bag,False
+3,M00067,Angle Long Angle Bracket 2040 M5,8.00,M00127,ENC - Miscellaneous Components Bag,False
+3,M00414,Connection Plate 20x80x3mm,4.00,M00127,ENC - Miscellaneous Components Bag,False
+3,M00413,Connection Plate 20x60x3mm,1.00,M00127,ENC - Miscellaneous Components Bag,False
+3,M00544,Handle 118mm,4.00,M00127,ENC - Miscellaneous Components Bag,False
+3,M00612,Internal Assembly 2020 3-Way Connector,8.00,M00127,ENC - Miscellaneous Components Bag,False
+3,M00746,Rubber foot M4,8.00,M00127,ENC - Miscellaneous Components Bag,False
+3,M00109,ENC - Alu Profile Rubber Seal 3mm - 2m80,1.00,M00127,ENC - Miscellaneous Components Bag,True
+4,M00046,Alu Profile Rubber Seal 3mm - 6m,0.50,M00109,ENC - Alu Profile Rubber Seal 3mm - 2m80,False
+3,M00378,Cable Chain TP15 15mm End connector (female),2.00,M00127,ENC - Miscellaneous Components Bag,False
+3,M00379,Cable Chain TP15 15mm End connector (male),2.00,M00127,ENC - Miscellaneous Components Bag,False
+2,M00111,ENC - DIN7991 Black Screw Bag - M4x6,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00422,DIN7991 M4X6 Black screw,4.00,M00111,ENC - DIN7991 Black Screw Bag - M4x6,False
+2,M00112,ENC - DIN9021 Washer Bag - M5x15,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00424,DIN9021 Washer M5x15,37.00,M00112,ENC - DIN9021 Washer Bag - M5x15,False
+2,M00113,ENC - DIN912 Black Screw Bag - M5x10,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00434,DIN912 M5x10 Black screw,8.00,M00113,ENC - DIN912 Black Screw Bag - M5x10,False
+2,M00114,ENC - DIN912 Black Screw Bag - M5x20,1.00,M00126,ENC - Mechanical Components Box,True
+3,M01731,DIN912 M5x20 Black screw,3.00,M00114,ENC - DIN912 Black Screw Bag - M5x20,False
+2,M00115,ENC - DIN912 Black Screw Bag - M5x30,1.00,M00126,ENC - Mechanical Components Box,True
+3,M01701,DIN912 M5x30 Black screw,22.00,M00115,ENC - DIN912 Black Screw Bag - M5x30,False
+2,M00116,ENC - DIN912 Black Screw Bag - M5x50,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00444,DIN912 M5x50 Black screw,2.00,M00116,ENC - DIN912 Black Screw Bag - M5x50,False
+2,M00117,ENC - DIN933 Black Screw Bag - M5x8,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00459,DIN933 M5x8 Black screw,4.00,M00117,ENC - DIN933 Black Screw Bag - M5x8,False
+2,M00121,ENC - DIN985 Lock Nut Bag - M4,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00629,Lock Nut DIN985 M4,2.00,M00121,ENC - DIN985 Lock Nut Bag - M4,False
+2,M00122,ENC - DIN985 Lock Nut Bag - M5,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00632,Lock Nut DIN985 M5,4.00,M00122,ENC - DIN985 Lock Nut Bag - M5,False
+2,M00118,ENC - ISO 7380 Black Screw Bag - M3x8,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00564,ISO 7380 M3x8 Black Screw,8.00,M00118,ENC - ISO 7380 Black Screw Bag - M3x8,False
+2,M00119,ENC - ISO 7380 Black Screw Bag - M4x8,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00565,ISO 7380 M4x8 Black Screw,116.00,M00119,ENC - ISO 7380 Black Screw Bag - M4x8,False
+2,M00120,ENC - ISO 7380 Black Screw Bag - M5x8,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00567,ISO 7380 M5x8 Black Screw,8.00,M00120,ENC - ISO 7380 Black Screw Bag - M5x8,False
+2,M00740,ENC - Reed Switch NC 2.3m wired & Magnets bag,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00638,Magnet for Reed Switch NC,2.00,M00740,ENC - Reed Switch NC 2.3m wired & Magnets bag,False
+3,M01232,Reed Switch NC 2.3m wired,2.00,M00740,ENC - Reed Switch NC 2.3m wired & Magnets bag,False
+2,M00110,ENC - Magnet Bag - Countersunk,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00821,Square Countersunk Magnet 20x20x4mm,2.00,M00110,ENC - Magnet Bag - Countersunk,False
+3,M00822,Square Countersunk Metal Plate 20x20x3mm,2.00,M00110,ENC - Magnet Bag - Countersunk,False
+2,M00128,ENC - V-Type Fastening Nut Bag - M3,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00854,V-Type Fastening Nut M3,8.00,M00128,ENC - V-Type Fastening Nut Bag - M3,False
+2,M00129,ENC - V-Type Fastening Nut Bag - M4,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00855,V-Type Fastening Nut M4 ,116.00,M00129,ENC - V-Type Fastening Nut Bag - M4,False
+2,M00130,ENC - V-Type Fastening Nut Bag - M5,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00856,V-Type Fastening Nut M5,43.00,M00130,ENC - V-Type Fastening Nut Bag - M5,False
+2,M00132,ENC - Round Head Wood Screw Bag - M4x16,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00886,Wood Screw 4x16mm Round Head,8.00,M00132,ENC - Round Head Wood Screw Bag - M4x16,False
+2,M00131,ENC - V-Wheels Bag - M5,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00882,Wheel with Bearings for V-slot Profile - Type B,22.00,M00131,ENC - V-Wheels Bag - M5,False
+2,M00125,ENC - Spacer Bag - M5x9,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00799,Spacer M5x9mm,5.00,M00125,ENC - Spacer Bag - M5x9,False
+2,M00123,ENC - Spacer Bag - M5x12,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00793,Spacer M5x12mm,20.00,M00123,ENC - Spacer Bag - M5x12,False
+2,M00124,ENC - Spacer Bag - M5x40,1.00,M00126,ENC - Mechanical Components Box,True
+3,M00797,Spacer M5x40mm,2.00,M00124,ENC - Spacer Bag - M5x40,False
+1,M00134,ENC-L - Structure Box,1.00,M00135,ENC-L [M0 Use],True
+2,M00048,Alu Profile V-2020 (1460mm),8.00,M00134,ENC-L - Structure Box,False
+2,M00054,Alu Profile V-2020 (890mm),4.00,M00134,ENC-L - Structure Box,False
+2,M00053,Alu Profile V-2020 (880mm),8.00,M00134,ENC-L - Structure Box,False
+2,M00052,Alu Profile V-2020 (765mm),4.00,M00134,ENC-L - Structure Box,False
+2,M00051,Alu Profile V-2020 (725mm),4.00,M00134,ENC-L - Structure Box,False
+2,M00376,Safety Enclosure-L- Cable Chain TP15*15 600mm,2.00,M00134,ENC-L - Structure Box,False
+1,M00133,ENC-L - PMMA Box,1.00,M00135,ENC-L [M0 Use],True
+2,M00717,"PMMA Sheet 3mm 735x870mm, Light Blue",8.00,M00133,ENC-L - PMMA Box,False
